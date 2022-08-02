@@ -6,7 +6,7 @@ This repository contains the code developed to (i) train a convolutional neural 
 
 The codes are written in Python, commented and presented in a format compatible with a Google Colaboratory implementation (last checked April 15, 2022). For a detailed description of the overall workflow, please refer to the manuscript which will be linked here after acceptance.
 
-To use these scripts, you should prepare your data according to the Aachen protocol as described here: https://zenodo.org/record/3694994. Whole slide images (WSI) must be cropped in square tiles using the QuPath software (https://qupath.github.io/). Tiles must be numbered, sorted and named following these examples: 
+To use these scripts, data must be prepared according to the Aachen protocol as described here: https://zenodo.org/record/3694994. Whole slide images (WSI) must be cropped in square tiles using the QuPath software (https://qupath.github.io/). Tiles must be numbered, sorted and named following these examples: 
 - “WARS_S017_14_(49517.0,3779.0).jpg”
 - “TYMP_S001_71_(16928.0,4281.0).jpg”
 - “GBP1_S016_11_(9384.0,7881.0).jpg”
