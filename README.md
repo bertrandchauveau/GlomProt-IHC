@@ -28,7 +28,8 @@ Tiles/
 ```         
 The proposed scripts allow to train models based on the images of the TYMP antibody. Simply replacing TYMP by WARS or GBP1 enables training of these two others.
 
-![TYMP_S010_12_(7725 0,8414 0) 2](https://user-images.githubusercontent.com/110421330/182601389-d2b460e1-db18-45a5-942f-04e782d90580.jpg)
-![TYMP_S010_12_(7725 0,8414 0)](https://user-images.githubusercontent.com/110421330/182601456-6b8fe474-d778-4cea-b567-69ceba1e33fa.jpg)
-
+<p align="middle">
+      <img src="https://user-images.githubusercontent.com/110421330/182601389-d2b460e1-db18-45a5-942f-04e782d90580.jpg" width=30% height=30%>
+      <img src="https://user-images.githubusercontent.com/110421330/182601456-6b8fe474-d778-4cea-b567-69ceba1e33fa.jpg" width=30% height=30%>
+</p>
 
