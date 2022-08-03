@@ -33,3 +33,4 @@ The proposed scripts allow to train models based on the images of the TYMP antib
       <img src="https://user-images.githubusercontent.com/110421330/182601456-6b8fe474-d778-4cea-b567-69ceba1e33fa.jpg" width=30% height=30%>
 </p>
 
+An example of one tile with the TYMP antibody in an ABMR case, showing a strong staining of the microcirculation i.e. glomerular and peritubular capillaries (left). The corresponding heatmap is displayed, focusing on stained capillaries (right) for a correct classification as ABMR.
