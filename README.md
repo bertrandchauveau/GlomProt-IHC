@@ -1,6 +1,6 @@
 # GlomProt-IHC
-###### Immunohistochemical analysis of interferon-related proteins by deep learning in kidney transplantation
-
+## Immunohistochemical analysis of interferon-related proteins by deep learning in kidney transplantation
+###### Using keras/tensorflow
 
 This repository contains the code developed to (i) train a convolutional neural network (CNN)-based workflow for the binary classification of immunohistochemical images as “Antibody-Mediated Rejection” (ABMR) or “Other diagnosis” and (ii) visualize the morphological patterns learned by the CNN using the Gradient-weighted Class Activation Mapping (Grad-CAM) approach (as displayed in the keras documentation, https://keras.io). It is part of an unpublished project about kidney transplantation currently under review at a scientific journal.
 
@@ -27,4 +27,8 @@ Tiles/
            …
 ```         
 The proposed scripts allow to train models based on the images of the TYMP antibody. Simply replacing TYMP by WARS or GBP1 enables training of these two others.
+
+![TYMP_S010_12_(7725 0,8414 0) 2](https://user-images.githubusercontent.com/110421330/182601389-d2b460e1-db18-45a5-942f-04e782d90580.jpg)
+![TYMP_S010_12_(7725 0,8414 0)](https://user-images.githubusercontent.com/110421330/182601456-6b8fe474-d778-4cea-b567-69ceba1e33fa.jpg)
+
 
