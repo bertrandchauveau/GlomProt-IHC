@@ -2,7 +2,7 @@
 ## Immunohistochemical analysis of interferon-related proteins by deep learning in kidney transplantation
 ###### Using keras/tensorflow
 
-This repository contains the code developed to (i) train a convolutional neural network (CNN)-based workflow for the binary classification of immunohistochemical images as “Antibody-Mediated Rejection” (ABMR) or “Other diagnosis” and (ii) visualize the morphological patterns learned by the CNN using the Gradient-weighted Class Activation Mapping (Grad-CAM) approach (as displayed in the keras documentation, https://keras.io). It is part of an unpublished project about kidney transplantation currently under review at a scientific journal.
+This repository contains the code developed to (i) train a convolutional neural network (CNN)-based workflow for the binary classification of immunohistochemical images as “Antibody-Mediated Rejection” (ABMR) or “Other diagnosis” and (ii) visualize the morphological patterns learned by the CNN using the Gradient-weighted Class Activation Mapping (Grad-CAM) approach (as displayed in the keras documentation, https://keras.io).
 
 The codes are written in Python, commented and presented in a format compatible with a Google Colaboratory implementation (last checked April 15, 2022). For a detailed description of the overall workflow, please refer to the related manuscript (published in Scientific reports: Sci Rep. 2022 Nov 9;12(1):19094. doi: 10.1038/s41598-022-23078-z, https://www.nature.com/articles/s41598-022-23078-z).
 
